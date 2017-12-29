@@ -10,6 +10,12 @@ The purpose of this tool is quickly generate bloat free images containing stock 
 * Gnome & KDE desktop environments
 * Hybrid DVD/USB image
 
+## Screenshots
+
+![Alt text](/gnome-livecd.png?raw=true "Gnome LiveCD)
+
+![Alt text](/kde-livecd.png?raw=true "KDE LiveCD")
+
 ## Initial Setup
 Install the required packages:
 ```
