@@ -57,7 +57,7 @@ Build desktop image with KDE:
 ```
 Burn image to DVD:
 ```
-/usr/local/comet/kde.iso
+cdrecord /usr/local/comet/kde.iso
 ```
 Burn image to USB:
 ```
