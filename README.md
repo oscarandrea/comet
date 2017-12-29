@@ -12,9 +12,9 @@ The purpose of this tool is quickly generate bloat free images containing stock 
 
 ## Screenshots
 
-![Alt text](/gnome-livecd.png?raw=true "Gnome LiveCD)
+![Alt text](/screenshots/gnome-livecd.png?raw=true "Gnome LiveCD")
 
-![Alt text](/kde-livecd.png?raw=true "KDE LiveCD")
+![Alt text](/screenshots/kde-livecd.png?raw=true "KDE LiveCD")
 
 ## Initial Setup
 Install the required packages:
@@ -52,4 +52,5 @@ Location of image for KDE:
 
 ## Credentials for live media
 User: liveuser
+
 Password: freebsd
