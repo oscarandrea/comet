@@ -46,4 +46,5 @@ Location of image for KDE:
 
 ## Credentials for live media
 User: liveuser
+
 Password: freebsd
