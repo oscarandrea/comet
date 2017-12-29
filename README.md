@@ -16,6 +16,12 @@ The purpose of this tool is quickly generate bloat free images containing stock 
 
 ![Alt text](/screenshots/kde-livecd.png?raw=true "KDE LiveCD")
 
+## System Requirements
+* FreeBSD 11.1, or higher for AMD64
+* 20GB of free disk space
+* 1GB of free memory
+* UFS, or ZFS
+
 ## Initial Setup
 Install the required packages:
 ```
