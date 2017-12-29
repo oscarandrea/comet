@@ -35,9 +35,13 @@ Build desktop image with Gnome:
 ```
 ./comet gnome
 ```
-Location of image for Gnome:
+Burn image to DVD:
 ```
-/usr/local/comet/gnome.iso
+cdrecord /usr/local/comet/gnome.iso
+```
+Burn image to USB:
+```
+dd if=/usr/local/comet/gnome.iso of=/dev/da0 bs=4m
 ```
 
 ## Usage for KDE
@@ -45,9 +49,13 @@ Build desktop image with KDE:
 ```
 ./comet kde
 ```
-Location of image for KDE:
+Burn image to DVD:
 ```
 /usr/local/comet/kde.iso
+```
+Burn image to USB:
+```
+dd if=/usr/local/comet/kde.iso of=/dev/da0 bs=4m
 ```
 
 ## Credentials for live media
